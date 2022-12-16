@@ -5,8 +5,10 @@ require 'csv'
 require 'json'
 require './book.rb'
 require './item.rb'
+require './item_container.rb'
 
 class Cart
+    include ItemContainer
 
     def save_to_csv()
         path_csv = Rails.configuration.x.path.to.save + '/' + Rails.configuration.x.csv.file.name
