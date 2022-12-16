@@ -27,7 +27,7 @@ class Parser
                 i= i+1
 
                 if book.price > Rails.configuration.x.min.price
-                    Book.set_item(sushi)
+                    Book.set_item(book)
             end
         rescue OpenURI::HTTPError => e
             puts e.message
