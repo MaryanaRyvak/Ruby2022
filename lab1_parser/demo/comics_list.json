@@ -1,0 +1,86 @@
+[
+    {
+      "Id": 1,
+      "Name": "Скотт Пілігрим береться за розум. Том 4",
+      "Price": 390,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/s/c/screenshot_3_16_36.jpg",
+      "Author": "Брайан Лі О'Меллі"
+    },
+    {
+      "Id": 2,
+      "Name": "Місто Гріхів (комплект із 2 книг)",
+      "Price": 580,
+      "Image link": "https://static.yakaboo.ua/media/catalog/product/_/-/_-1_14_25.jpg",
+      "Author": "Френк Міллер"
+    },
+    {
+      "Id": 3,
+      "Name": "Людина-павук. Життєпис",
+      "Price": 375,
+      "Image link": "https://static.yakaboo.ua/media/catalog/product/1/d/1dd52727649c11ec9430309c23812764_1dd52728649c11ec9430309c23812764-600x800.jpg",
+      "Author": "Чип Здарски"
+    },
+    {
+      "Id": 10,
+      "Name": "Шибайголова. Людина без страху",
+      "Price": 410,
+      "Image link": "https://static.yakaboo.ua/media/catalog/product/0/e/0ea7a5bda74711eb9429309c23812764_eb383b9aa74711eb9429309c23812764-600x800.jpg",
+      "Author": "Френк Міллер"
+    },
+    {
+      "Id": 14,
+      "Name": "Шараз-Де",
+      "Price": 690,
+      "Image link": "https://static.yakaboo.ua/media/catalog/product/8/0/8083843fa74611eb9429309c23812764_0c4d96dea74811eb9429309c23812764-600x800.jpg",
+      "Author": "Серджо Топпі"
+    },
+    {
+      "Id": 16,
+      "Name": "Круто Зварений",
+      "Price": 410,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/i/m/img_96636.jpg",
+      "Author": "Френк Міллер"
+    },
+    {
+      "Id": 19,
+      "Name": "Династія М",
+      "Price": 410,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/i/m/img_77641.jpg",
+      "Author": "Браян Майкл Бендіс"
+    },
+    {
+      "Id": 25,
+      "Name": "Marvel 1602",
+      "Price": 410,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/i/m/img_39715.jpg",
+      "Author": "Ніл Гейман"
+    },
+    {
+      "Id": 26,
+      "Name": "Громадянська війна",
+      "Price": 410,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/i/m/img_12594.jpg",
+      "Author": "Марк Міллар"
+    },
+    {
+      "Id": 27,
+      "Name": "Росомаха. Старий Логан",
+      "Price": 410,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/i/m/img_12604.jpg",
+      "Author": "Марк Міллар"
+    },
+    {
+      "Id": 33,
+      "Name": "Світ гри Death Stranding",
+      "Price": 800,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/m/a/mal010.jpg",
+      "Author": "Хідео Коджіма"
+    },
+    {
+      "Id": 35,
+      "Name": "Рукавиця Нескінченності",
+      "Price": 351,
+      "Image link": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/r/u/rukavitsya-neskinchennosti-17709706461298.png",
+      "Author": "Джим Старлін"
+    }
+  ]
