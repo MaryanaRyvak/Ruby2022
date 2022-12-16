@@ -15,7 +15,7 @@ class Parser
             html = URI.open(@url) { |result| result.read}
             doc = Nokogiri::HTML(html)
             i = 0
-            doc.css('.pproduct-listing view-category').each do |element|
+            doc.css('.product-listing view-category').each do |element|
                 book = Item.new()
                 book.name = element.css(".category-card__content").css(".category-grid-block__content").css(".ui-card-title category-card__name").text
                 book.author = element.css(".category-card__content").css(".category-grid-block__content").css(".ui-card-author category-card__author").text
