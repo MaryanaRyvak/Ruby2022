@@ -8,8 +8,8 @@
 
 Вигляд сайту на момент тестування програми:
 
-![Alt text](demo/screen1.png?raw=true "Title")
+![Alt text](https://github.com/MaryanaRyvak/Ruby2022/blob/main/lab1_parser/demo/screen1.png?raw=true "Title")
 
-![Alt text](demo/screen2.png?raw=true "Title")
+![Alt text](https://github.com/MaryanaRyvak/Ruby2022/blob/main/lab1_parser/demo/screen2.png?raw=true "Title")
 
-![Alt text](demo/screen3.png?raw=true "Title")
+![Alt text](https://github.com/MaryanaRyvak/Ruby2022/blob/main/lab1_parser/demo/screen3.png?raw=true "Title")
