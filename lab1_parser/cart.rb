@@ -15,9 +15,9 @@ class Cart
         begin  
             File.new(path_csv, "w")
             
-            CSV.open(path_csv, "w", headers: ['Id', 'Name', 'Price', 'Image link', 'Description'], write_headers: true) do |csv|
+            CSV.open(path_csv, "w", headers: ['Id', 'Name', 'Price', 'Image link', 'Author'], write_headers: true) do |csv|
                 books.each do |book|
-                    csv << [book.id, book.name, book.price, book.image_link, product.description]
+                    csv << [book.id, book.name, book.price, book.image_link, product.author]
                 end
             end
 
@@ -41,7 +41,7 @@ class Cart
                         "Name" => book.name,
                         "Price" => book.price,
                         "Image link" => book.image_link, 
-                        "Description" => book.description
+                        "Author" => book.author
                     }
 
                     json.write(JSON.pretty_generate(temp_hash))

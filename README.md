@@ -4,5 +4,5 @@
 
 Створення парсера для веб-сайту
 
-Для парсингу вибраний сайт книгарні Буква, зокрема сторінка з мальописами https://bukva.ua/ua/catalog/browse/4056
+Для парсингу вибраний сайт книгарні якабу, зокрема сторінка з мальописами https://www.yakaboo.ua/ua/knigi/komiksy-i-graficheskie-romany/komiksy.html?book_publisher=Mal_opus
 
