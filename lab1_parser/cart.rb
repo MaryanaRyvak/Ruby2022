@@ -9,7 +9,7 @@ require './item.rb'
 class Cart
 
     def save_to_csv()
-        path_csv = './comics_list.csv'
+        path_csv = Rails.configuration.x.path.to.save + '/' + Rails.configuration.x.csv.file.name
         books = Book.get_All()
         puts books
         begin  
@@ -28,7 +28,7 @@ class Cart
         end
 
     def save_to_json()
-        path_json = './comics_list.json'
+        path_json = Rails.configuration.x.path.to.save + '/' + Rails.configuration.x.json.file.name
         books = Book.get_All()
 
         begin 
